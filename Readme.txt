@@ -4,4 +4,4 @@
 4) $ is for sudo.
 
 Transmiting part of this driver enables to send ranodom message to devices in LAN network.
-For reading packets we put pointers to read ping packets(actually payload of ping packets), this can be changed by simply moving the pointers.
+Read method is for reading ping packets(actually payload of ping packets), this can be changed by simply moving the pointers.
